@@ -13,7 +13,7 @@ import standards.*;
  * (iv)  The Code Design that will be used (Controlled by the country regulatory standards)
  * (v)   Calculating and designing the element to assure that its section Resistance is greater and will sustain the forces applied.
  */
-public class Teste {
+public class Test {
 
     public static void main(String[] args) {
 
